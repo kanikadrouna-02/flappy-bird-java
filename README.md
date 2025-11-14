@@ -24,12 +24,6 @@ Pixel-sprite artwork included (bird, background, pipes)
 
 ---
 
-🖼 Preview
-
-(Add a GIF or screenshot here if you have one)
-
-
----
 
 📁 Project Structure
 
@@ -116,3 +110,4 @@ Main menu + pause system
 
 This project is released under the MIT License.
 Feel free to use, modify, and share!
+
